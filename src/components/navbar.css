@@ -1,0 +1,52 @@
+.menu {
+  transform: translate3d(0, -3rem, 0);
+  opacity: 0;
+  animation: menu-items .6s ease-in-out alternate forwards;
+}
+
+.bookings {
+  transform: translate3d(-3rem, 0, 0);
+  opacity: 0;
+  animation: menu-items .6s ease-in-out .5s alternate forwards;
+}
+
+.hotels {
+  transform: translate3d(1.9rem, 0, 0);
+  opacity: 0;
+  animation: menu-items .6s ease-in-out alternate 1s forwards;
+}
+
+.line {
+  transform: translate3d(0, 8rem, 0);
+  opacity: 0;
+  animation: menu-items .6s ease-in-out alternate 1.4s forwards;
+}
+
+.sign-in {
+  transform: translate3d(0, 1.5rem, 0);
+  opacity: 0;
+  animation: menu-items .6s ease-in-out alternate 2s forwards;
+}
+
+@keyframes menu-items {
+  100% {transform:
+    translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+.cross {
+  animation: animate-cross 1s ease-out 0s 1 alternate-reverse;
+}
+
+@keyframes animate-cross {
+  100% {transform: rotate(90deg);}
+}
+
+.hamburger {
+  animation: animate-hamburger 1s ease-out 0s 1 alternate;
+}
+
+@keyframes animate-hamburger {
+ 100% {transform: rotate(180deg);} 
+}
