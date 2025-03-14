@@ -1,3 +1,4 @@
+import Footer from "../components/Footer.jsx";
 import Hero from "../components/Hero.jsx";
 import Navbar from "../components/Navbar.jsx";
 import SearchBar from "../components/SearchBar.jsx";
@@ -11,6 +12,7 @@ const Layout = ({ children }) => {
         <SearchBar />
       </div>
       <div className="container mx-auto py-10 flex-1">{children}</div>
+      <Footer />
     </div>
   );
 };

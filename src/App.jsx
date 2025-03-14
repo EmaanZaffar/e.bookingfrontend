@@ -7,12 +7,20 @@ import {
 } from "react-router-dom";
 import Register from "./pages/Register";
 import SignIn from "./pages/SignIn";
+import Home from "./pages/Home";
 
 const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Layout></Layout>} />
+        <Route
+          path="/"
+          element={
+            <Layout>
+              <Home />
+            </Layout>
+          }
+        />
         <Route
           path="/register"
           element={
@@ -30,6 +38,7 @@ const App = () => {
             </Layout>
           }
         />
+        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
   );

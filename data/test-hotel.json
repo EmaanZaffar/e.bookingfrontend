@@ -1,0 +1,224 @@
+[
+  {
+    "_id": {
+      "$oid": "6566072befbb78591fadc606"
+    },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Tachibana Shikitei",
+    "city": "Maldives",
+    "country": "Ireland",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "type": "All Inclusive",
+    "adultCount": {
+      "$numberInt": "2"
+    },
+    "childCount": {
+      "$numberInt": "3"
+    },
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": {
+      "$numberInt": "119"
+    },
+    "starRating": {
+      "$numberInt": "2"
+    },
+    "imageUrls": [
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193683/infmiy1cqhz61ka5wrmi.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/jgxnxfz0buqtnhabekyw.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/uaramb4wzxdzcipa4ap9.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1716294284/h4kmmxxj3tak5kjn5zwm.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/gadg9mubple1msqqznjp.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/hbyffxuio4v0pmk62udo.jpg"
+    ],
+    "lastUpdated": {
+      "$date": {
+        "$numberLong": "1701185323228"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6566072befbb78591fadc606"
+    },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Lux Hotel",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "type": "All Inclusive",
+    "adultCount": {
+      "$numberInt": "2"
+    },
+    "childCount": {
+      "$numberInt": "3"
+    },
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": {
+      "$numberInt": "119"
+    },
+    "starRating": {
+      "$numberInt": "2"
+    },
+    "imageUrls": [
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194336/vnlr9jzhjk2ccy9gkg9p.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/umeuw3wcivjslybxwryt.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/lvwdqmcm8xvhfk4lnn83.webp",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/ku6na2kh9f6yfhvo1jki.jpg"
+    ],
+    "lastUpdated": {
+      "$date": {
+        "$numberLong": "1701185323228"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6566072befbb78591fadc606"
+    },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Dublin Getaways",
+    "city": "Dublin",
+    "country": "Ireland",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "type": "All Inclusive",
+    "adultCount": {
+      "$numberInt": "2"
+    },
+    "childCount": {
+      "$numberInt": "3"
+    },
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": {
+      "$numberInt": "119"
+    },
+    "starRating": {
+      "$numberInt": "2"
+    },
+    "imageUrls": [
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/jo2mxqzwlka2yjj4ggok.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/ocyzahfxv539pcuf3q76.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/nn7sdsxmoyn8ach2gjrb.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/abkpogto7gq3bdfbdoko.jpg",
+      "http://localhost:5173/detail/670f88c83dec1cbbb9b796af",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/abkpogto7gq3bdfbdoko.jpg"
+    ],
+    "lastUpdated": {
+      "$date": {
+        "$numberLong": "1701185323228"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6566072befbb78591fadc606"
+    },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Hotel Pradas Ordesa",
+    "city": "Ordesa",
+    "country": "Boroto",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "type": "All Inclusive",
+    "adultCount": {
+      "$numberInt": "2"
+    },
+    "childCount": {
+      "$numberInt": "3"
+    },
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": {
+      "$numberInt": "119"
+    },
+    "starRating": {
+      "$numberInt": "2"
+    },
+    "imageUrls": [
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265172/vfcvzzluuarm9vjp73bj.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/ayyydzgnalqj2jklm7lx.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/dov5rp7n8sqafd63bcxf.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/f7ti4azgvpappebifvrr.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/hh5azeqccfic4dje8zk2.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265172/iva4lfokzrp5404edvhx.jpg"
+    ],
+    "lastUpdated": {
+      "$date": {
+        "$numberLong": "1701185323228"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6566072befbb78591fadc606"
+    },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Malasia Getaways",
+    "city": "Maldives",
+    "country": "Ireland",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "type": "All Inclusive",
+    "adultCount": {
+      "$numberInt": "2"
+    },
+    "childCount": {
+      "$numberInt": "3"
+    },
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": {
+      "$numberInt": "119"
+    },
+    "starRating": {
+      "$numberInt": "2"
+    },
+    "imageUrls": [
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199170/khlqgjtrev2ltjfrvrms.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199113/hleozugmmevfkrwi3h2d.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199113/e2za62aqy5h1rhnby5b4.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199112/lxlqa31oekngedskp0do.jpg"
+    ],
+    "lastUpdated": {
+      "$date": {
+        "$numberLong": "1701185323228"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+  
+]  
