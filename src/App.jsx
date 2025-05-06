@@ -8,6 +8,7 @@ import {
 import Register from "./pages/Register";
 import SignIn from "./pages/SignIn";
 import Home from "./pages/Home";
+import GuestCard from "./components/GuestCard";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           element={
             <Layout>
               <Home />
+              <GuestCard />
             </Layout>
           }
         />
