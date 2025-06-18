@@ -9,6 +9,8 @@ import Register from "./pages/Register";
 import SignIn from "./pages/SignIn";
 import Home from "./pages/Home";
 import GuestCard from "./components/GuestCard";
+import BrowseSection from "./components/BrowseSection";
+import InclusiveSection from "./components/AllInclusive";
 
 const App = () => {
   return (
@@ -20,6 +22,8 @@ const App = () => {
             <Layout>
               <Home />
               <GuestCard />
+              <BrowseSection />
+              <InclusiveSection />
             </Layout>
           }
         />
