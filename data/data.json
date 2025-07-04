@@ -47,5 +47,43 @@
       "starRating": "5",
       "imageUrl": "https://static.prod.r53.tablethotels.com/media/ecs/global/magazine/story-images/20211023/Songsaa-1.jpg"
     }
+  ],
+  "explorePk": [
+    {
+      "id": "1920",
+      "location": "Islamabad",
+      "properties": "2,145",
+      "imageUrl": "https://skardu.pk/wp-content/uploads/2024/10/Faisal-Mosque.png"
+    },
+    {
+      "id": "2122",
+      "location": "Lahore",
+      "properties": "2,487",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/960px-Lahore_Fort_view_from_Baradari.jpg"
+    },
+    {
+      "id": "2324",
+      "location": "Karachi",
+      "properties": "765",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PK_Karachi_asv2020-02_img06_Bagh_Ibne_Qasim.jpg/1920px-PK_Karachi_asv2020-02_img06_Bagh_Ibne_Qasim.jpg"
+    },
+    {
+      "id": "2526",
+      "location": "Quetta",
+      "properties": "253",
+      "imageUrl": "https://cometinsure.com/blog/wp-content/uploads/2024/01/Interesting-Facts-About-Quetta.jpg"
+    },
+    {
+      "id": "2728",
+      "location": "Peshawar",
+      "properties": "745",
+      "imageUrl": "https://mediaim.expedia.com/destination/1/e4165763cbf5a0f70c596197342a2caa.jpg"
+    },
+    {
+      "id": "2930",
+      "location": "Muzaffarabad",
+      "properties": "345",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b0/50/93/caption.jpg?w=500&h=500&s=1"
+    }
   ]
 }
