@@ -4,6 +4,7 @@
 
 .slick-slide > div {
     margin: 0 10px;
+<<<<<<< HEAD
 }
 
 
@@ -74,3 +75,6 @@
     @apply bg-background text-foreground;
     }
 }
+=======
+}
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
