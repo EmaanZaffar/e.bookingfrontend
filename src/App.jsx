@@ -8,6 +8,11 @@ import {
 import Register from "./pages/Register";
 import SignIn from "./pages/SignIn";
 import Home from "./pages/Home";
+import GuestCard from "./components/GuestCard";
+import BrowseSection from "./components/BrowseByType";
+import InclusiveSection from "./components/AllInclusive";
+import ExploreSection from "./components/ExploreSection";
+import TestimonialCard from "./components/Card";
 
 const App = () => {
   return (
@@ -18,9 +23,15 @@ const App = () => {
           element={
             <Layout>
               <Home />
+              <GuestCard />
+              <BrowseSection />
+              <ExploreSection />
+              <InclusiveSection />
+              <TestimonialCard />
             </Layout>
           }
         />
+
         <Route
           path="/register"
           element={
