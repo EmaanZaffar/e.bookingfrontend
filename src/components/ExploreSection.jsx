@@ -3,10 +3,15 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import {
   IoIosArrowDroprightCircle,
   IoIosArrowDropleftCircle,
 } from "react-icons/io";
+=======
+
+import { IoIosArrowDroprightCircle, IoIosArrowDropleftCircle } from "react-icons/io";
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
 
 import { IoIosArrowDroprightCircle, IoIosArrowDropleftCircle } from "react-icons/io";
@@ -16,6 +21,7 @@ import { useEffect, useState } from "react";
 let slidesToShow = 5;
 let slidesToScroll = 1;
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 function PrevArrow(props) {
   const { onClick, currentSlide } = props;
@@ -140,6 +146,8 @@ const ExploreSection = () => {
 
 export default ExploreSection;
 =======
+=======
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 function NextArrow(props) {
 	const { onClick, slideCount, currentSlide, slidesToShow } = props;
 
@@ -223,5 +231,9 @@ const ExploreSection = () => {
 	)
 }
 
+<<<<<<< HEAD
+export default ExploreSection;
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
+=======
 export default ExploreSection;
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f

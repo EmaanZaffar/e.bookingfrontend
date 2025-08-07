@@ -16,8 +16,12 @@ const InclusiveSection = () => {
             className="w-56 h-56 relative group overflow-hidden object-cover"
           >
 <<<<<<< HEAD
+<<<<<<< HEAD
             {/* img hover:scale-90 transition */}
             <div className="">
+=======
+            <div>
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
             <div>
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
@@ -28,7 +32,11 @@ const InclusiveSection = () => {
               />
 
 <<<<<<< HEAD
+<<<<<<< HEAD
               <span className="transition-all flex absolute translate-x-32 duration-700 group-hover:-translate-x-2 top-2 right-2">
+=======
+              <span className="flex absolute top-2 right-2 transition-all translate-x-32 duration-700 group-hover:-translate-x-2">
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
               <span className="flex absolute top-2 right-2 transition-all translate-x-32 duration-700 group-hover:-translate-x-2">
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
@@ -42,7 +50,12 @@ const InclusiveSection = () => {
               </span>
             </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <h3 className="font-bold tracking-tight text-lg cursor-pointer">
+=======
+
+            <h3 className="font-bold tracking-tighter text-lg cursor-pointer">
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
 
             <h3 className="font-bold tracking-tighter text-lg cursor-pointer">

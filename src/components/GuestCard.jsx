@@ -1,6 +1,7 @@
 import hotels from "../../data/test-hotel.json";
 import { AiFillStar } from "react-icons/ai";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
@@ -35,6 +36,8 @@ function SamplePrevArrow(props) {
 
 // function SamplePrevArrow(props) {
 =======
+=======
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 import { IoIosArrowDroprightCircle } from "react-icons/io";
 import { IoIosArrowDropleftCircle } from "react-icons/io";
 
@@ -43,6 +46,9 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 
 // function PrevArrow(props) {
+<<<<<<< HEAD
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
+=======
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 //   const { className, style, onClick } = props;
 //   return (
@@ -63,9 +69,12 @@ import Slider from "react-slick";
 // }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const GuestCard = () => {
   const hotel = hotels.slice(5);
 =======
+=======
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 function NextArrow(props) {
   const { onClick } = props;
   return (
@@ -93,6 +102,9 @@ function PrevArrow(props) {
 const GuestCard = () => {
   const hotel = hotels.slice(5);
   console.log(hotel);
+<<<<<<< HEAD
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
+=======
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 
   var settings = {
@@ -102,9 +114,15 @@ const GuestCard = () => {
     slidesToShow: 4,
     slidesToScroll: 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
     initialSlide: 0,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
+=======
+    // initialSlide: 3,
+    prevArrow: <PrevArrow />,
+    nextArrow: <NextArrow />,
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
     // initialSlide: 3,
     prevArrow: <PrevArrow />,
@@ -135,20 +153,27 @@ const GuestCard = () => {
     ],
   };
 <<<<<<< HEAD
+<<<<<<< HEAD
   return (
     <div className="space-y-5 mt-10">
       <h1 className="text-2xl font-bold text-black/90">Homes guests love</h1>
 =======
+=======
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 
   return (
     <div className="mt-10 space-y-5">
       <h1 className="text-2xl font-bold text-black/90">Homes guests love</h1>
 
+<<<<<<< HEAD
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
+=======
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
       <Slider {...settings}>
         {hotel.map((hotel, i) => (
           <div
             key={i}
+<<<<<<< HEAD
 <<<<<<< HEAD
             className="flex relative cursor-pointer overflow-hidden rounded-md shadow-lg shadow-gray-200 h-[393px] sm:h-[380px] "
           >
@@ -156,6 +181,11 @@ const GuestCard = () => {
             {/* h-2/4 */}
             {/* image */}
             <div className="">
+=======
+            className="flex relative cursor-pointer overflow-hidden rounded-md shadow-lg shadow-gray-200 h-[393px] sm:h-[380px]"
+          >
+            <div>
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
             className="flex relative cursor-pointer overflow-hidden rounded-md shadow-lg shadow-gray-200 h-[393px] sm:h-[380px]"
           >
@@ -177,7 +207,11 @@ const GuestCard = () => {
                       key={index}
                       className="fill-yellow-400"
 <<<<<<< HEAD
+<<<<<<< HEAD
                       size={16}
+=======
+                      size={18}
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
                       size={18}
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
@@ -193,6 +227,7 @@ const GuestCard = () => {
                 {hotel?.city}, {hotel?.country}
               </span>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <div className="flex items-center">
                 <span className="bg-blue-900 p-1 mr-1 text-sm text-white rounded-t-md rounded-br-md">
                   {hotel?.numRating}
@@ -201,19 +236,28 @@ const GuestCard = () => {
                   {hotel?.rating}
                 </span>
 =======
+=======
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 
               <div className="flex items-center">
                 <span className="bg-blue-900 p-1 mr-1 text-white text-sm rounded-t-md rounded-br-md">
                   {hotel?.numRating}
                 </span>
                 <span className="text-sm px-1">{hotel?.rating}</span>
+<<<<<<< HEAD
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
+=======
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
                 <span>.&nbsp;</span>
                 <span className="text-sm">{hotel?.reviews} reviews</span>
               </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
               <div className="flex items-center end-3 absolute bottom-2 mt-5 md:mt-8">
+=======
+              <div className="flex items-center absolute end-3 bottom-2 mt-5 md:mt-8">
+>>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
 =======
               <div className="flex items-center absolute end-3 bottom-2 mt-5 md:mt-8">
 >>>>>>> a21c06bc84f06530a834e7adb7fee466ef59948f
