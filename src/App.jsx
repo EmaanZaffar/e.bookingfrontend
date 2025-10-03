@@ -13,7 +13,7 @@ import BrowseSection from "./components/BrowseByType";
 import InclusiveSection from "./components/AllInclusive";
 import TestimonialCard from "./components/Card";
 import ExploreSection from "./components/ExploreSection";
-
+import AddHotel from "./pages/AddHotel";
 
 const App = () => {
   return (
@@ -50,6 +50,16 @@ const App = () => {
             </Layout>
           }
         />
+
+        <Route
+          path="/add-hotel"
+          element={
+            <Layout>
+              <AddHotel />
+            </Layout>
+          }
+        />
+
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
