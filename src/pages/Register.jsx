@@ -1,7 +1,11 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
+import { useAppContext } from "../context/AppContext";
 
 const Register = () => {
+  const navigate = useNavigate();
+
+  const { showToast } = useAppContext();
   const {
     register,
     watch,
@@ -11,6 +15,13 @@ const Register = () => {
 
   const onSubmit = handleSubmit((data) => {
     console.log(data);
+    // const data = null;
+    if (data) {
+      showToast({ message: "Registration Successful", type: "SUCCESS" });
+      navigate("/");
+    } else {
+      showToast({ message: "Registration Failed", type: "ERROR" });
+    }
   });
 
   return (
