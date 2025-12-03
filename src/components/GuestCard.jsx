@@ -51,8 +51,6 @@ function SamplePrevArrow(props) {
 //   );
 // }
 
-
-
 const GuestCard = () => {
   const hotel = hotels.slice(5);
   console.log(hotel);
@@ -147,7 +145,7 @@ const GuestCard = () => {
                 <p className="text-sm">Starting from&nbsp;</p>
                 <span className="font-bold">$</span>
                 <span className="font-bold text-lg">
-                  {hotel?.pricePerNight?.$numberInt}
+                  {hotel?.pricePerNight}
                 </span>
               </div>
             </div>

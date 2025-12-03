@@ -13,9 +13,9 @@ const Register = () => {
     handleSubmit,
   } = useForm();
 
-  const onSubmit = handleSubmit((data) => {
-    console.log(data);
-    // const data = null;
+  const onSubmit = handleSubmit(() => {
+    // console.log(data);
+    const data = null;
     if (data) {
       showToast({ message: "Registration Successful", type: "SUCCESS" });
       navigate("/");

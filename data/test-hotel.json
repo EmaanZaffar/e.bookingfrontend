@@ -1,8 +1,6 @@
 [
   {
-    "_id": {
-      "$oid": "6566072befbb78591fadc606"
-    },
+    "_id": { "$oid": "6566072befbb78591fadc606" },
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Tachibana Shikitei",
     "city": "Maldives",
@@ -10,26 +8,18 @@
     "numRating": "8.7",
     "rating": "Fabulous",
     "reviews": "2,893",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "All Inclusive",
-    "adultCount": {
-      "$numberInt": "2"
-    },
-    "childCount": {
-      "$numberInt": "3"
-    },
+    "adultCount": 2,
+    "childCount": 3,
     "facilities": [
       "Airport Shuttle",
       "Family Rooms",
       "Non-Smoking Rooms",
       "Spa"
     ],
-    "pricePerNight": {
-      "$numberInt": "119"
-    },
-    "starRating": {
-      "$numberInt": "2"
-    },
+    "pricePerNight": 119,
+    "starRating": 2,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193683/infmiy1cqhz61ka5wrmi.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/jgxnxfz0buqtnhabekyw.jpg",
@@ -38,19 +28,11 @@
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/gadg9mubple1msqqznjp.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/hbyffxuio4v0pmk62udo.jpg"
     ],
-    "lastUpdated": {
-      "$date": {
-        "$numberLong": "1701185323228"
-      }
-    },
-    "__v": {
-      "$numberInt": "0"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
   },
   {
-    "_id": {
-      "$oid": "6566072befbb78591fadc606"
-    },
+    "_id": { "$oid": "6566072befbb78591fadc606" },
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Lux Hotel",
     "city": "Lahore",
@@ -58,45 +40,29 @@
     "numRating": "7.2",
     "rating": "Good",
     "reviews": "3,895",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
-    "type": "All Inclusive",
-    "adultCount": {
-      "$numberInt": "2"
-    },
-    "childCount": {
-      "$numberInt": "3"
-    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
+    "adultCount": 2,
+    "childCount": 3,
+    "type": "Family Room",
     "facilities": [
       "Airport Shuttle",
       "Family Rooms",
       "Non-Smoking Rooms",
       "Spa"
     ],
-    "pricePerNight": {
-      "$numberInt": "119"
-    },
-    "starRating": {
-      "$numberInt": "2"
-    },
+    "pricePerNight": 119,
+    "starRating": 2,
     "imageUrls": [
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194336/vnlr9jzhjk2ccy9gkg9p.jpg",
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/umeuw3wcivjslybxwryt.jpg",
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/lvwdqmcm8xvhfk4lnn83.webp",
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/ku6na2kh9f6yfhvo1jki.jpg"
     ],
-    "lastUpdated": {
-      "$date": {
-        "$numberLong": "1701185323228"
-      }
-    },
-    "__v": {
-      "$numberInt": "0"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
   },
   {
-    "_id": {
-      "$oid": "6566072befbb78591fadc606"
-    },
+    "_id": { "$oid": "6566072befbb78591fadc606" },
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Dublin Getaways",
     "city": "Dublin",
@@ -104,26 +70,18 @@
     "numRating": "9.0",
     "rating": "Superb",
     "reviews": "1,890",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "All Inclusive",
-    "adultCount": {
-      "$numberInt": "2"
-    },
-    "childCount": {
-      "$numberInt": "3"
-    },
+    "adultCount": 2,
+    "childCount": 3,
     "facilities": [
       "Airport Shuttle",
       "Family Rooms",
       "Non-Smoking Rooms",
       "Spa"
     ],
-    "pricePerNight": {
-      "$numberInt": "119"
-    },
-    "starRating": {
-      "$numberInt": "2"
-    },
+    "pricePerNight": 119,
+    "starRating": 2,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/jo2mxqzwlka2yjj4ggok.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/ocyzahfxv539pcuf3q76.jpg",
@@ -132,298 +90,190 @@
       "http://localhost:5173/detail/670f88c83dec1cbbb9b796af",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/abkpogto7gq3bdfbdoko.jpg"
     ],
-    "lastUpdated": {
-      "$date": {
-        "$numberLong": "1701185323228"
-      }
-    },
-    "__v": {
-      "$numberInt": "0"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
   },
   {
-    "_id": {
-      "$oid": "6566072befbb78591fadc606"
-    },
+    "_id": { "$oid": "6566072befbb78591fadc606" },
     "userId": "6554f2ecd4f07417501dcbf1",
-    "name": "Hotel Pradas Ordesa",
-    "city": "Ordesa",
-    "country": "Boroto",
-    "numRating": "7.8",
-    "rating": "Good",
-    "reviews": "1,893",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
-    "type": "All Inclusive",
-    "adultCount": {
-      "$numberInt": "2"
-    },
-    "childCount": {
-      "$numberInt": "3"
-    },
-    "facilities": [
-      "Airport Shuttle",
-      "Family Rooms",
-      "Non-Smoking Rooms",
-      "Spa"
-    ],
-    "pricePerNight": {
-      "$numberInt": "119"
-    },
-    "starRating": {
-      "$numberInt": "2"
-    },
-    "imageUrls": [
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265172/vfcvzzluuarm9vjp73bj.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/ayyydzgnalqj2jklm7lx.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/dov5rp7n8sqafd63bcxf.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/f7ti4azgvpappebifvrr.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265173/hh5azeqccfic4dje8zk2.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1724265172/iva4lfokzrp5404edvhx.jpg"
-    ],
-    "lastUpdated": {
-      "$date": {
-        "$numberLong": "1701185323228"
-      }
-    },
-    "__v": {
-      "$numberInt": "0"
-    }
-  },
-  {
-    "_id": {
-      "$oid": "6566072befbb78591fadc606"
-    },
-    "userId": "6554f2ecd4f07417501dcbf1",
-    "name": "Malasia Getaways",
+    "name": "Tachibana Shikitei",
     "city": "Maldives",
     "country": "Ireland",
     "numRating": "8.7",
     "rating": "Fabulous",
     "reviews": "2,893",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sodales rhoncus. Mauris nisl sapien, interdum vitae mi et, porttitor faucibus velit. Duis quis nisl feugiat, volutpat leo a, efficitur lectus. Praesent vulputate turpis nec sapien vulputate tincidunt. Maecenas vitae aliquam ipsum. Ut ultricies hendrerit ante eget vehicula. Cras sit amet semper odio. Pellentesque lacinia, sapien a tristique ultrices, augue diam interdum nulla, non porttitor ligula nisl at nibh. Aenean in lobortis velit, sed hendrerit mi. Nam leo sem, laoreet quis diam eget, euismod lobortis purus. Aenean laoreet dui vel diam pulvinar viverra.\r\n\r\nFusce non nisi laoreet, egestas felis dignissim, tempor arcu. Ut feugiat nibh vel sodales suscipit. Phasellus ultricies eget eros id bibendum. Nunc lobortis orci interdum felis bibendum pretium. Vivamus placerat ligula a consequat ultricies. Etiam aliquam nibh vitae efficitur finibus. Duis iaculis tristique sapien. Aenean vel sollicitudin dolor. Aliquam vel nisl id augue pellentesque aliquet.\r\n\r\nFusce a egestas urna. Fusce eu sapien viverra, feugiat risus nec, accumsan enim. Donec vel sapien blandit, semper est non, congue ante. Sed lectus nulla, efficitur nec tortor nec, sollicitudin varius massa. Donec lectus mauris, vehicula ut semper eget, pharetra maximus lacus. Pellentesque pharetra facilisis luctus. Nunc lacus sapien, gravida vitae egestas in, mattis in tellus.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "All Inclusive",
-    "adultCount": {
-      "$numberInt": "2"
-    },
-    "childCount": {
-      "$numberInt": "3"
-    },
+    "adultCount": 2,
+    "childCount": 3,
     "facilities": [
       "Airport Shuttle",
       "Family Rooms",
       "Non-Smoking Rooms",
       "Spa"
     ],
-    "pricePerNight": {
-      "$numberInt": "119"
-    },
-    "starRating": {
-      "$numberInt": "2"
-    },
+    "pricePerNight": 119,
+    "starRating": 2,
     "imageUrls": [
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199170/khlqgjtrev2ltjfrvrms.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199113/hleozugmmevfkrwi3h2d.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199113/e2za62aqy5h1rhnby5b4.jpg",
-      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721199112/lxlqa31oekngedskp0do.jpg"
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193683/infmiy1cqhz61ka5wrmi.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/jgxnxfz0buqtnhabekyw.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/uaramb4wzxdzcipa4ap9.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1716294284/h4kmmxxj3tak5kjn5zwm.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/gadg9mubple1msqqznjp.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/hbyffxuio4v0pmk62udo.jpg"
     ],
-    "lastUpdated": {
-      "$date": {
-        "$numberLong": "1701185323228"
-      }
-    },
-    "__v": {
-      "$numberInt": "0"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
   },
   {
-    "_id": {
-        "$oid": "706723abcfde87692faed907"
-    },
-    "userId": "7001f3bcd6f98517502edf32",
-    "name": "Bagong Barrio",
-    "city": "Kyoto",
-    "country": "Japan",
+    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Lux Hotel",
+    "city": "Lahore",
+    "country": "Pakistan",
     "numRating": "7.2",
     "rating": "Good",
     "reviews": "3,895",
-    "description": "Curabitur dapibus gravida ligula, et dictum magna pulvinar vel. Proin maximus, tortor vel tempor luctus, libero est varius nisl, ut dictum massa libero id erat. Integer convallis accumsan fermentum. Phasellus ut purus nec ex fermentum gravida vel et turpis. Pellentesque venenatis cursus magna, vel dictum nisi efficitur a. Nulla facilisi. Sed sed nisl dapibus, feugiat magna eget, tincidunt turpis.\r\n\r\nSuspendisse potenti. Maecenas aliquet eros sed velit vehicula, ut vehicula leo fringilla. Nunc feugiat convallis nisl. Mauris vestibulum sapien sit amet felis faucibus vestibulum. Curabitur fringilla vehicula sapien, id scelerisque mi. Nunc efficitur consequat eros a tempus. Aliquam scelerisque dolor arcu, ac dignissim lectus iaculis non. Praesent nec ultricies ex. Fusce vel efficitur libero.\r\n\r\nAliquam viverra semper magna, nec ultricies mi elementum at. Cras tempor ex at nisl convallis, sed bibendum nulla gravida. Etiam fringilla turpis nec felis tristique feugiat. Nulla facilisi. Sed dictum lectus ut lorem laoreet, non iaculis magna rhoncus. Nulla elementum malesuada diam. Nulla suscipit, elit non consequat fermentum, arcu lorem porttitor nulla, ut egestas sapien justo vel nulla.",
-    "type": "Luxury Suite",
-    "adultCount": {
-        "$numberInt": "4"
-    },
-    "childCount": {
-        "$numberInt": "2"
-    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
+    "type": "All Inclusive",
+    "adultCount": 2,
+    "childCount": 3,
     "facilities": [
-        "Free WiFi",
-        "Swimming Pool",
-        "Room Service",
-        "Fitness Center"
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
     ],
-    "pricePerNight": {
-        "$numberInt": "250"
-    },
-    "starRating": {
-        "$numberInt": "5"
-    },
+    "pricePerNight": 119,
+    "starRating": 2,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198819/pshizoddz19da2p5v842.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198799/fh26d6iz6uegvvnxjmpd.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198799/d2w7dtiumweszrsmred8.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198799/izdmmwg78k6iempxhoxp.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198799/wgpchpasunitio4cxjud.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194336/vnlr9jzhjk2ccy9gkg9p.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/umeuw3wcivjslybxwryt.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/lvwdqmcm8xvhfk4lnn83.webp",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/ku6na2kh9f6yfhvo1jki.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1702285323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "1"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
   },
   {
-    "_id": {
-        "$oid": "803234bcda87692faed907"
-    },
+    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "userId": "6554f2ecd4f07417501dcbf1",
+    "name": "Dublin Getaways",
+    "city": "Dublin",
+    "country": "Ireland",
+    "numRating": "9.0",
+    "rating": "Superb",
+    "reviews": "1,890",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
+    "type": "All Inclusive",
+    "adultCount": 2,
+    "childCount": 3,
+    "facilities": [
+      "Airport Shuttle",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Spa"
+    ],
+    "pricePerNight": 119,
+    "starRating": 2,
+    "imageUrls": [
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/jo2mxqzwlka2yjj4ggok.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/ocyzahfxv539pcuf3q76.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/nn7sdsxmoyn8ach2gjrb.jpg",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/abkpogto7gq3bdfbdoko.jpg",
+      "http://localhost:5173/detail/670f88c83dec1cbbb9b796af",
+      "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/abkpogto7gq3bdfbdoko.jpg"
+    ],
+    "lastUpdated": { "$date": { "$numberLong": "1701185323228" } },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "803234bcda87692faed907" },
     "userId": "8002f3abd4f98517502edf32",
     "name": "Hotaku AkihabaraOpens",
     "city": "Osaka",
     "country": "Japan",
     "numRating": "9.0",
-      "rating": "Superb",
-      "reviews": "1,890",
-    "description": "Proin quis velit eu sapien sodales tincidunt. Praesent accumsan risus eu lectus ornare, vel tincidunt odio tempor. Nulla facilisi. Ut ultricies sapien vel purus consectetur maximus.",
+    "rating": "Superb",
+    "reviews": "1,890",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "Standard Room",
-    "adultCount": {
-        "$numberInt": "2"
-    },
-    "childCount": {
-        "$numberInt": "1"
-    },
+    "adultCount": 2,
+    "childCount": 1,
     "facilities": [
-        "Free Parking",
-        "Airport Shuttle",
-        "Pet Friendly",
-        "Restaurant"
+      "Free Parking",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Restaurant"
     ],
-    "pricePerNight": {
-        "$numberInt": "85"
-    },
-    "starRating": {
-        "$numberInt": "3"
-    },
+    "pricePerNight": 85,
+    "starRating": 3,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200419/yuxiizzf7tnha9gxaxvo.webp",
-          "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200378/nxjtafhxltscxuiolrft.jpg",
-          "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200302/cfgzckldejoswrwf1zme.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200419/yuxiizzf7tnha9gxaxvo.webp",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200378/nxjtafhxltscxuiolrft.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721200302/cfgzckldejoswrwf1zme.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1703185323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "2"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1703185323228" } },
+    "__v": { "$numberInt": "2" }
   },
   {
-    "_id": {
-        "$oid": "703123abcde87692faed908"
-    },
+    "_id": { "$oid": "703123abcde87692faed908" },
     "userId": "7101f3bcd6f98517501edc12",
     "name": "Avani Plus Palm",
     "city": "Dubai",
     "country": "UAE",
     "numRating": "8.7",
-      "rating": "Fabulous",
-      "reviews": "2,893",
-    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Quisque malesuada augue in lectus fermentum, non cursus lorem sollicitudin.",
+    "rating": "Fabulous",
+    "reviews": "2,893",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "Deluxe Suite",
-    "adultCount": {
-        "$numberInt": "3"
-    },
-    "childCount": {
-        "$numberInt": "2"
-    },
-    "facilities": [
-        "Swimming Pool",
-        "Spa",
-        "Room Service",
-        "Fitness Center"
-    ],
-    "pricePerNight": {
-        "$numberInt": "190"
-    },
-    "starRating": {
-        "$numberInt": "4"
-    },
+    "adultCount": 3,
+    "childCount": 2,
+    "facilities": ["Swimming Pool", "Spa", "Room Service", "Fitness Center"],
+    "pricePerNight": 190,
+    "starRating": 4,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199743/k7vqas3ugfsqhczf6ct3.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/wbtdtwumpocfyjpydyhx.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/wexucoopbt0dpen37kny.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/ctbz36p8eqwndkm4elat.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/rht5tuxqobmgh44sx2ea.webp",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/ry8zguuqlsrkvor380pr.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199743/k7vqas3ugfsqhczf6ct3.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/wbtdtwumpocfyjpydyhx.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/wexucoopbt0dpen37kny.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/ctbz36p8eqwndkm4elat.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/rht5tuxqobmgh44sx2ea.webp",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721199686/ry8zguuqlsrkvor380pr.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1704185323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "3"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1704185323228" } },
+    "__v": { "$numberInt": "3" }
   },
   {
-    "_id": {
-        "$oid": "805345dbad87692faed909"
-    },
+    "_id": { "$oid": "805345dbad87692faed909" },
     "userId": "7202g4cfd7f98517502edf52",
     "name": "Casa BalmesOpens",
     "city": "Barcelona",
     "country": "Spain",
     "numRating": "7.8",
-      "rating": "Good",
-      "reviews": "1,893",
+    "rating": "Good",
+    "reviews": "1,893",
     "description": "Aenean nec lacus ut augue porttitor cursus nec sit amet sapien. Cras pellentesque tellus vel magna aliquet, ut tincidunt ante vulputate.",
     "type": "Executive Suite",
-    "adultCount": {
-        "$numberInt": "2"
-    },
-    "childCount": {
-        "$numberInt": "3"
-    },
+    "adultCount": 2,
+    "childCount": 3,
     "facilities": [
-        "Free WiFi",
-        "Family Rooms",
-        "Non-Smoking Rooms",
-        "Airport Shuttle"
+      "Free WiFi",
+      "Family Rooms",
+      "Non-Smoking Rooms",
+      "Airport Shuttle"
     ],
-    "pricePerNight": {
-        "$numberInt": "220"
-    },
-    "starRating": {
-        "$numberInt": "4"
-    },
+    "pricePerNight": 220,
+    "starRating": 4,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/saddkzcwpue7x9nwcyac.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/uhow9m2leixrvgrlwuk5.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/pmlgtnh0vbykeh3xz82e.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/saddkzcwpue7x9nwcyac.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/uhow9m2leixrvgrlwuk5.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198368/pmlgtnh0vbykeh3xz82e.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1705185323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "4"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1705185323228" } },
+    "__v": { "$numberInt": "4" }
   },
   {
-    "_id": {
-        "$oid": "806456ecab87692faed910"
-    },
+    "_id": { "$oid": "806456ecab87692faed910" },
     "userId": "7303h5cge7f98517501edg72",
     "name": "Sandringham",
     "city": "Cape Town",
@@ -431,85 +281,45 @@
     "numRating": "9.0",
     "rating": "Superb",
     "reviews": "1,890",
-    "description": "Suspendisse potenti. Nullam dictum, nunc id tincidunt tincidunt, ligula mauris euismod dolor, non egestas orci felis eget augue.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "Villa",
-    "adultCount": {
-        "$numberInt": "5"
-    },
-    "childCount": {
-        "$numberInt": "2"
-    },
-    "facilities": [
-        "Outdoor Pool",
-        "Garden",
-        "Free Breakfast",
-        "Parking"
-    ],
-    "pricePerNight": {
-        "$numberInt": "300"
-    },
-    "starRating": {
-        "$numberInt": "5"
-    },
+    "adultCount": 5,
+    "childCount": 2,
+    "facilities": ["Outdoor Pool", "Garden", "Free Breakfast", "Parking"],
+    "pricePerNight": 300,
+    "starRating": 5,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/zcpp6toi4gvoctuwlctc.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/bpvdvpbbdbibepzs2hzo.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/xrj14qa5cfoccqjbjmqi.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/zcpp6toi4gvoctuwlctc.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/bpvdvpbbdbibepzs2hzo.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721198270/xrj14qa5cfoccqjbjmqi.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1706185323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "5"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1706185323228" } },
+    "__v": { "$numberInt": "5" }
   },
   {
-    "_id": {
-        "$oid": "807567facb87692faed911"
-    },
+    "_id": { "$oid": "807567facb87692faed911" },
     "userId": "7404i6cfg8f98517502edh92",
     "name": "Shangri-La Sydney",
     "city": "Sydney",
     "country": "Australia",
     "numRating": "8.7",
-      "rating": "Fabulous",
-      "reviews": "2,893",
-    "description": "Fusce nec orci nec justo venenatis tincidunt. Integer et orci eget eros facilisis posuere. Mauris vehicula nisi ac vehicula dictum.",
+    "rating": "Fabulous",
+    "reviews": "2,893",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis augue eget nisi faucibus, non sagittis mi fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel blandit ipsum. Etiam cursus ligula ut orci convallis ornare. Nulla vitae libero euismod, iaculis orci nec, porttitor felis. Vestibulum bibendum justo eu metus dictum, non finibus neque lobortis. Praesent ac placerat lorem, quis hendrerit elit. Nulla mollis risus ultricies, pretium lacus vel, aliquam nisl. Vivamus tristique rutrum quam ut porttitor. In placerat et est eu fringilla. Vivamus non nisl metus. Phasellus sollicitudin, libero quis pulvinar pretium, mi dui luctus augue, ut posuere velit neque vel ex.",
     "type": "Penthouse",
-    "adultCount": {
-        "$numberInt": "2"
-    },
-    "childCount": {
-        "$numberInt": "0"
-    },
-    "facilities": [
-        "Rooftop Terrace",
-        "Bar",
-        "Free WiFi",
-        "Non-Smoking Rooms"
-    ],
-    "pricePerNight": {
-        "$numberInt": "350"
-    },
-    "starRating": {
-        "$numberInt": "5"
-    },
+    "adultCount": 2,
+    "childCount": 0,
+    "facilities": ["Rooftop Terrace", "Bar", "Free WiFi", "Non-Smoking Rooms"],
+    "pricePerNight": 350,
+    "starRating": 5,
     "imageUrls": [
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197291/eojwuwrdhrkwtyln2f5t.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197292/relr5k383kaphkajkn2e.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197232/nmfypbtv2zg6evbglpfh.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197141/aiulx1qhu5wx3yqzinwv.jpg",
-        "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197142/spxjc6ojmc4ybsap9omy.jpg"
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197291/eojwuwrdhrkwtyln2f5t.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197292/relr5k383kaphkajkn2e.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197232/nmfypbtv2zg6evbglpfh.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197141/aiulx1qhu5wx3yqzinwv.jpg",
+      "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721197142/spxjc6ojmc4ybsap9omy.jpg"
     ],
-    "lastUpdated": {
-        "$date": {
-            "$numberLong": "1707185323228"
-        }
-    },
-    "__v": {
-        "$numberInt": "6"
-    }
+    "lastUpdated": { "$date": { "$numberLong": "1707185323228" } },
+    "__v": { "$numberInt": "6" }
   }
-]  
+]

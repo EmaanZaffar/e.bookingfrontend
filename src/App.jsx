@@ -14,6 +14,7 @@ import InclusiveSection from "./components/AllInclusive";
 import TestimonialCard from "./components/Card";
 import ExploreSection from "./components/ExploreSection";
 import AddHotel from "./pages/AddHotel";
+import MyHotels from "./pages/MyHotels";
 
 const App = () => {
   return (
@@ -56,6 +57,15 @@ const App = () => {
           element={
             <Layout>
               <AddHotel />
+            </Layout>
+          }
+        />
+
+        <Route
+          path="/my-hotels"
+          element={
+            <Layout>
+              <MyHotels />
             </Layout>
           }
         />
