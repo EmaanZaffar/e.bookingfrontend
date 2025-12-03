@@ -8,12 +8,16 @@ import {
   IoIosArrowDropleftCircle,
 } from "react-icons/io";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, type MouseEventHandler } from "react";
 
 let slidesToShow = 5;
 let slidesToScroll = 1;
 
-function PrevArrow(props) {
+type ArrowProps = {
+  onClick?: MouseEventHandler<HTMLDivElement>;
+};
+
+function PrevArrow(props: ArrowProps & { currentSlide: number }) {
   const { onClick, currentSlide } = props;
   return (
     <>
@@ -29,7 +33,13 @@ function PrevArrow(props) {
   );
 }
 
-function NextArrow(props) {
+function NextArrow(
+  props: ArrowProps & {
+    slideCount: number;
+    currentSlide: number;
+    slidesToShow: number;
+  }
+) {
   const { onClick, slideCount, currentSlide, slidesToShow } = props;
 
   return (
@@ -45,7 +55,6 @@ function NextArrow(props) {
     </>
   );
 }
-
 
 const ExploreSection = () => {
   const [width, setWidth] = useState(window.innerWidth);
@@ -79,8 +88,10 @@ const ExploreSection = () => {
     // slidesToScroll: 1,
     slidesToShow,
     slidesToScroll,
-    nextArrow: <NextArrow slidesToShow={slidesToShow} />,
-    prevArrow: <PrevArrow />,
+    nextArrow: (
+      <NextArrow slidesToShow={slidesToShow} slideCount={0} currentSlide={0} />
+    ),
+    prevArrow: <PrevArrow currentSlide={0} />,
     // responsive: [
     //   {
     //     breakpoint: 1099,

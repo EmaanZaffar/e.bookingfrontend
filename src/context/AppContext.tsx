@@ -1,4 +1,4 @@
-import Toast from "@/components/toast.tsx";
+import Toast from "@/components/Toast.tsx";
 import React, { useContext, useState } from "react";
 
 type ToastMessage = {

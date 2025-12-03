@@ -1,8 +1,16 @@
+import type { HotelType } from "@/shared/types";
 import { Link } from "react-router-dom";
 
-const HomePageCards = ({ hotel }) => {
+type Props = {
+  hotel: HotelType;
+};
+
+const HomePageCards = ({ hotel }: Props) => {
   return (
-    <Link className="relative cursor-pointer overflow-hidden rounded-md">
+    <Link
+      to={`/detail/${hotel._id}`}
+      className="relative cursor-pointer overflow-hidden rounded-md"
+    >
       <div className="h-[350px] hover:scale-110 transition">
         <img
           alt="hotel image"

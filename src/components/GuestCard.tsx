@@ -7,8 +7,13 @@ import {
   IoIosArrowDroprightCircle,
   IoIosArrowDropleftCircle,
 } from "react-icons/io";
+import type { MouseEventHandler } from "react";
 
-function SampleNextArrow(props) {
+type ArrowProps = {
+  onClick?: MouseEventHandler<HTMLDivElement>;
+};
+
+function SampleNextArrow(props: ArrowProps) {
   const { onClick } = props;
   return (
     <div
@@ -20,7 +25,7 @@ function SampleNextArrow(props) {
   );
 }
 
-function SamplePrevArrow(props) {
+function SamplePrevArrow(props: ArrowProps) {
   const { onClick } = props;
   return (
     <div
@@ -112,15 +117,13 @@ const GuestCard = () => {
             {/* information */}
             <div className="m-2 flex flex-col">
               <span className="flex">
-                {Array.from({ length: hotel?.starRating?.$numberInt }).map(
-                  (_, index) => (
-                    <AiFillStar
-                      key={index}
-                      className="fill-yellow-400"
-                      size={18}
-                    />
-                  )
-                )}
+                {Array.from({ length: hotel?.starRating }).map((_, index) => (
+                  <AiFillStar
+                    key={index}
+                    className="fill-yellow-400"
+                    size={18}
+                  />
+                ))}
               </span>
 
               <span className="font-bold tracking-tight text-lg text-wrap">

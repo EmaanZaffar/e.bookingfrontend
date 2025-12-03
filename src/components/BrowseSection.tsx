@@ -1,13 +1,18 @@
 import data from "../../data/data.json";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+// import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import {
   IoIosArrowDroprightCircle,
   IoIosArrowDropleftCircle,
 } from "react-icons/io";
+import type { MouseEventHandler } from "react";
 
-function SampleNextArrow(props) {
+type ArrowProps = {
+  onClick?: MouseEventHandler<HTMLDivElement>;
+};
+
+function NextArrow(props: ArrowProps) {
   const { onClick } = props;
   return (
     <div
@@ -19,7 +24,7 @@ function SampleNextArrow(props) {
   );
 }
 
-function SamplePrevArrow(props) {
+function PrevArrow(props: ArrowProps) {
   const { onClick } = props;
   return (
     <div
@@ -36,8 +41,8 @@ const BrowseSection = () => {
     infinite: false,
     speed: 500,
     slidesToShow: 5,
-    nextArrow: <SampleNextArrow />,
-    prevArrow: <SamplePrevArrow />,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
     responsive: [
       {
         breakpoint: 1099,

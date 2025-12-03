@@ -1,9 +1,13 @@
-import Footer from "../components/Footer.jsx";
-import Hero from "../components/Hero.jsx";
-import Navbar from "../components/Navbar.jsx";
-import SearchBar from "../components/SearchBar.jsx";
+import Footer from "../components/Footer.js";
+import Hero from "../components/Hero.js";
+import Navbar from "../components/Navbar.js";
+import SearchBar from "../components/SearchBar.js";
 
-const Layout = ({ children }) => {
+type Props = {
+  children: React.ReactNode;
+};
+
+const Layout = ({ children }: Props) => {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar />
