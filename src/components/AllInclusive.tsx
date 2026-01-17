@@ -24,13 +24,15 @@ const InclusiveSection = () => {
               />
 
               <span className="flex absolute top-2 right-2 transition-all translate-x-32 duration-700 group-hover:-translate-x-2">
-                {Array.from({ length: item?.starRating }).map((_, index) => (
-                  <AiFillStar
-                    key={index}
-                    className="fill-yellow-300"
-                    size={19}
-                  />
-                ))}
+                {Array.from({ length: Number(item?.starRating) }).map(
+                  (_, index) => (
+                    <AiFillStar
+                      key={index}
+                      className="fill-yellow-300"
+                      size={19}
+                    />
+                  )
+                )}
               </span>
             </div>
 

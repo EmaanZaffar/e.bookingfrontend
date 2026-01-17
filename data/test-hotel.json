@@ -1,6 +1,6 @@
 [
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc6067867",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Tachibana Shikitei",
     "city": "Maldives",
@@ -19,7 +19,7 @@
       "Spa"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 4,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193683/infmiy1cqhz61ka5wrmi.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/jgxnxfz0buqtnhabekyw.jpg",
@@ -32,7 +32,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc606877",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Lux Hotel",
     "city": "Lahore",
@@ -48,10 +48,11 @@
       "Airport Shuttle",
       "Family Rooms",
       "Non-Smoking Rooms",
-      "Spa"
+      "Spa",
+      "Outdoor Pool"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 3,
     "imageUrls": [
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194336/vnlr9jzhjk2ccy9gkg9p.jpg",
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/umeuw3wcivjslybxwryt.jpg",
@@ -62,7 +63,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc6064535",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Dublin Getaways",
     "city": "Dublin",
@@ -81,7 +82,7 @@
       "Spa"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 5,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/jo2mxqzwlka2yjj4ggok.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/ocyzahfxv539pcuf3q76.jpg",
@@ -94,7 +95,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc60687654",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Tachibana Shikitei",
     "city": "Maldives",
@@ -113,7 +114,7 @@
       "Spa"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 4,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193683/infmiy1cqhz61ka5wrmi.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1721193613/jgxnxfz0buqtnhabekyw.jpg",
@@ -126,7 +127,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc60645435",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Lux Hotel",
     "city": "Lahore",
@@ -145,7 +146,7 @@
       "Spa"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 5,
     "imageUrls": [
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194336/vnlr9jzhjk2ccy9gkg9p.jpg",
       "http://res.cloudinary.com/dqdpr0htx/image/upload/v1721194298/umeuw3wcivjslybxwryt.jpg",
@@ -156,7 +157,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "6566072befbb78591fadc606" },
+    "_id": "6566072befbb78591fadc606988796",
     "userId": "6554f2ecd4f07417501dcbf1",
     "name": "Dublin Getaways",
     "city": "Dublin",
@@ -175,7 +176,7 @@
       "Spa"
     ],
     "pricePerNight": 119,
-    "starRating": 2,
+    "starRating": 4,
     "imageUrls": [
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/jo2mxqzwlka2yjj4ggok.jpg",
       "https://res.cloudinary.com/dqdpr0htx/image/upload/v1729071304/ocyzahfxv539pcuf3q76.jpg",
@@ -188,7 +189,7 @@
     "__v": { "$numberInt": "0" }
   },
   {
-    "_id": { "$oid": "803234bcda87692faed907" },
+    "_id": "803234bcda87692faed907",
     "userId": "8002f3abd4f98517502edf32",
     "name": "Hotaku AkihabaraOpens",
     "city": "Osaka",
@@ -217,7 +218,7 @@
     "__v": { "$numberInt": "2" }
   },
   {
-    "_id": { "$oid": "703123abcde87692faed908" },
+    "_id": "703123abcde87692faed908",
     "userId": "7101f3bcd6f98517501edc12",
     "name": "Avani Plus Palm",
     "city": "Dubai",
@@ -244,7 +245,7 @@
     "__v": { "$numberInt": "3" }
   },
   {
-    "_id": { "$oid": "805345dbad87692faed909" },
+    "_id": "805345dbad87692faed909",
     "userId": "7202g4cfd7f98517502edf52",
     "name": "Casa BalmesOpens",
     "city": "Barcelona",
@@ -273,7 +274,7 @@
     "__v": { "$numberInt": "4" }
   },
   {
-    "_id": { "$oid": "806456ecab87692faed910" },
+    "_id": "806456ecab87692faed910",
     "userId": "7303h5cge7f98517501edg72",
     "name": "Sandringham",
     "city": "Cape Town",
@@ -297,7 +298,7 @@
     "__v": { "$numberInt": "5" }
   },
   {
-    "_id": { "$oid": "807567facb87692faed911" },
+    "_id": "807567facb87692faed911",
     "userId": "7404i6cfg8f98517502edh92",
     "name": "Shangri-La Sydney",
     "city": "Sydney",

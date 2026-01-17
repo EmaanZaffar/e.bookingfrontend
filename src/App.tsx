@@ -15,6 +15,8 @@ import TestimonialCard from "./components/Card";
 import ExploreSection from "./components/ExploreSection";
 import AddHotel from "./pages/AddHotel";
 import MyHotels from "./pages/MyHotels";
+import EditHotel from "./pages/EditHotel";
+import Search from "./pages/Search";
 
 const App = () => {
   return (
@@ -62,10 +64,28 @@ const App = () => {
         />
 
         <Route
+          path="/edit-hotel/:hotelId"
+          element={
+            <Layout>
+              <EditHotel />
+            </Layout>
+          }
+        />
+
+        <Route
           path="/my-hotels"
           element={
             <Layout>
               <MyHotels />
+            </Layout>
+          }
+        />
+
+        <Route
+          path="/search"
+          element={
+            <Layout>
+              <Search />
             </Layout>
           }
         />
